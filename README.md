@@ -1,0 +1,2 @@
+# sql
+SQL  PRACTISE SCRIPTS
